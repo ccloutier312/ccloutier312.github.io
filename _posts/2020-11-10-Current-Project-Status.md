@@ -10,7 +10,6 @@ While it is very interested to see the differing results that each corpus produc
 
 Understanding that the corpus is a product of a rigorous process of selection and editing, I was reminded of Catherine D'Ignazio and Lauren Klein’s lessons on “data feminism”. In their work, they call for using a feminist approach of recognizing the “context” in which the data was produced. This recognition of context allows researchers “to better understand any functional limitations of the data and any associated ethical obligations, as well as how the power and privilege that contributed to their making may be obscuring the truth” [D’Ignazio and Klein, 152-153]. Through this lens, it is possible to see that the raw “data” that is used in analysis, whether it is textual or otherwise, is not bias-free. There are human selections at every level of this project. The State Department officials in the mid-twentieth century created documents with their own biases; the current producers of the FRUS series make selections based on what is deemed “important”; and the researcher (myself) has crafted an analysis with certain parameters and methodologies that have produced the given results. This complexity will be discussed at greater length in the final project.
 
-Written on 9 November 2020.
 <h2>References</h2>
 D’Ignazio, Catherine and Lauren F. Klein. _Data Feminism_. Ideas Series. Cambridge, Massachusetts: The MIT Press, 2020. http://search.ebscohost.com.ezproxy.neu.edu/login.aspx?direct=true&AuthType=ip,shib&db=nlebk&AN=2378911&site=ehost-live&scope=site.
 
