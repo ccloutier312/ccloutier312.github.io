@@ -2,8 +2,7 @@
 layout: post
 title: Current Status of My Project
 ---
-<html>
-<head>Current Status of My Project</head>
+
 <h2>(The following may be later integrated into my completed project.)</h2>
 <body>
 <div>
@@ -21,5 +20,5 @@ title: Current Status of My Project
 </article>
 </div>
 </body>
-</html>
+
 
