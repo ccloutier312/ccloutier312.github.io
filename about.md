@@ -4,21 +4,8 @@ title: About this Project
 permalink: /about/
 ---
 
-### Audience
-The audience of this project includes
-* Academics
-* Political scientists
-* Digital humanists
+### About
+Welcome to *The Cold War and Word Embeddings: Exploring Gender in the FRUS Series, 1945-1968*.
+This project explores the language used by State Department officials during the Cold War. By isolating the documents concerning Latin American nations during the early years of the Cold War, this project seeks to examine how the State Department regarded gender within the Western hemisphere between 1945-1968.
 
-### Methods
-The methods that this project includes are
-* Text analysis
-* Gender analysis
-* Data feminism
 
-### Scope
-The scope of this project covers the period **1945-1960** in both **Latin America** and **Europe**.
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
