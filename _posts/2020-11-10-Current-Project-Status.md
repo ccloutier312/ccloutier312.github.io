@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Current Status of My Project
+permalink: /blog
 ---
 
 <h2>(The following may be later integrated into my completed project.)</h2>
