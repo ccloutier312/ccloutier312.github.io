@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Introduction
+title: Analysis
 permalink: /analysis/
 ---
 
-##Analysis
 
 <p>The following are the results of the queries I completed on each corpus. Please feel free to follow along by pasting the query terms into the <a href="https://ccloutier312.github.io/code">code</a>. Be sure to load in the correct corpus before beginning the analysis.</p>
 

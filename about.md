@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About this Project
-permalink: 
+permalink: /
 ---
 
 ### About
