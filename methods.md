@@ -28,8 +28,8 @@ permalink: /methods/
 
 <p>Word embedding models are incredibly powerful tools that are capable of giving the user insights into their corpora and directing them to patterns that would be missed through close reading of a limited corpus. But, as this project has argued, it is important to recognize the limitations inherent to such an analysis. Using terms of gender to query the corpus does not result in representations of gender in Latin America in the postwar period. Instead, these queries result in language related to how State Department officials used gendered terms during the period.</p>
 
-<p>[1] The Pell Amendment quoted (Botts 2015).</p>
-<p>[2] The 1925 Kellogg Order quoted in (Botts 2015).</p>
-<p>[3] For a discussion of how to define “Latin America” and to understand the historical division of the hemisphere, see Moya, Jose C. *The Oxford Handbook of Latin American History*. New York: Oxford University Press, 2011.</p>
+<p>[1] The Pell Amendment quoted in Botts 2015.</p>
+<p>[2] The 1925 Kellogg Order quoted in Botts 2015.</p>
+<p>[3] For a discussion of how to define “Latin America” and to understand the historical division of the hemisphere, see Moya, Jose C. <i>The Oxford Handbook of Latin American History</i>. New York: Oxford University Press, 2011.</p>
 <p>[4] For more information on the breakdown of the <i>FRUS</i> volumes during this period and the prevalence of each nation in the eyes of the State Department, see <a href="http://ccloutier.com/mapping-policy/">this</a> basic analysis.</p>
 
