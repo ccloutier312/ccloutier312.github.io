@@ -28,8 +28,12 @@ permalink: /bibliography/
    
  Klein, Lauren F, and D'Ignazio, Catherine. *Data Feminism*. Strong Ideas. Cambridge: MIT Press, 2020.
     
- Manela, Erez. “The United STates in the World” in Eric Foner and Lisa McGirr (eds.), *American History Now*. Philadelphia: Temple University Press, 2011.
-    
+Laville, Helen. “Gender and Women’s Rights in the Cold War,” in *The Oxford Handbook of the Cold War*. Eds. Ricard H. Immerman and Petra Goedde. Oxford: Oxford University Press, 2013. 
+
+ Manela, Erez. “The United States in the World” in Eric Foner and Lisa McGirr (eds.), *American History Now*. Philadelphia: Temple University Press, 2011.
+
+Muehlenbeck, Philip E., ed. *Gender, Sexuality, and the Cold War: A Global Perspective*. Tennessee: Vanderbilt University Press, 2017.
+
  Rosenberg, Emily S. “Gender” in *The Journal of American History* 77, no. 1 (June 1990): 116-124.
     
  Schmidt, Benjamin. “Vector Space Models for the Digital Humanities.” Ben's Bookworm Blog, 25 Oct. 2015. http://bookworm.benschmidt.org/posts/2015-10-25-Word-Embeddings.html.
